@@ -3,3 +3,5 @@
 h1,h2,h3,h4,.affiliation,.position{font-family:Montserrat,Arial,sans-serif}
 
 .document article>h2.publication-heading{font-size:46px;font-weight:400;letter-spacing:-1px;line-height:1.2;margin:55px 0 18px}.document article>h2.publication-heading:first-child{margin-top:0}@media(max-width:850px){.document article>h2.publication-heading{font-size:36px}}
+
+@media(max-width:520px){.nav-links{gap:10px 16px;flex-wrap:wrap;font-size:14px}}
